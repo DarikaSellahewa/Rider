@@ -1,0 +1,79 @@
+body{
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+
+#login{
+	padding-top:50px;
+	text-align:center;
+	position:absolute;
+	left:400px;
+	top:100px;
+	height:400px;
+    width:500px;
+    
+}
+
+h1{
+	font-family:#00CCFF;
+	color:#00CCFF;
+}
+
+h2{
+	font-family:#00CCFF;
+	color:#00CCFF;
+}
+
+
+
+.btn-md{//change the button size
+	//padding: 50px 16px 0px 0px;
+	padding-top:15px;
+	padding-right:100px;
+	padding-left:100px;
+	padding-bottom:15px;
+	width:400px
+}
+
+table{
+	border-collapse:collapse;
+
+}
+
+td{
+	padding-top:.5em;
+	padding-bottom:.5em;
+	padding-left:50px;
+	padding-right:50px;
+}
+
+#Sign_In{
+	
+	background-position:-54px;
+}
+
+.form-control{
+	padding-top:.5em;
+	padding-bottom:.5em;
+	padding-left:140px;
+	padding-right:140px;
+	width:400px
+}
+
+.checkbox{
+	padding-left:5px;
+	font-family:#C71585;
+	color:#00CCFF;
+}
+
+a.link{
+	//color:#0000FF;
+	color:#FF0000;
+}
+
+#linkOfSignUp{
+	padding-top:25px;
+	padding-bottom:25px;
+	
+
+}
